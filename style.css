@@ -1,0 +1,15 @@
+/******************
+css for basic page
+**************/
+
+body{
+    font-family: "monospace", san-serif;
+}
+
+.font-primary{
+    color: pink;
+}
+.title-icon{
+    font-size: 30px;
+    font-weight: bold;
+}
