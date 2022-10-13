@@ -3,7 +3,8 @@ css for basic page
 **************/
 
 body{
-    font-family: "monospace", san-serif;
+    font-family: san-serif, "monospace";
+    background-color:#F0F0F0;
 }
 
 .font-primary{
@@ -86,7 +87,8 @@ CSS FOR THE PROJECTS SECTION
 
 }
 
-#project .h2{
+
+#project h2{
     text-align: center;
 }
 
@@ -97,4 +99,10 @@ CSS FOR THE PROJECTS SECTION
 
 #project .card-title{
     font-weight: Bold;
+}
+
+#project a{
+    color:#6C6E6E;
+    background-color: pink;
+    border-radius: 10%;
 }
